@@ -1,0 +1,7 @@
+# Local build and preview helpers
+work/
+preview-*.png
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
